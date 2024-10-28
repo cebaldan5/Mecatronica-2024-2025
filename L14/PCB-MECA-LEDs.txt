@@ -1,0 +1,40 @@
+Info: Processing symbol 'D1:LED_THT:LED_D3.0mm'.
+Info: Processing symbol 'D2:LED_THT:LED_D3.0mm'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Changed REF** reference designator to D1.
+Changed D1 value from LED_D3.0mm to LED.
+Updated D1 symbol association from  to /c654c0f2-f339-4397-b5b0-8fffce12316a.
+Updated D1 fields.
+Updated D1 sheetname to 'Root'.
+Updated D1 sheetfile to 'MECA-LEDs.kicad_sch'.
+Updated D1 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Add net GND.
+Connected D1 pin 1 to GND.
+Add net Net-(D1-A).
+Connected D1 pin 2 to Net-(D1-A).
+Added D2 (footprint 'LED_THT:LED_D3.0mm').
+Changed REF** reference designator to D2.
+Changed D2 value from LED_D3.0mm to LED.
+Updated D2 symbol association from  to /158ba499-844c-4763-b862-5044f8aeae55.
+Updated D2 fields.
+Updated D2 sheetname to 'Root'.
+Updated D2 sheetfile to 'MECA-LEDs.kicad_sch'.
+Updated D2 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Connected D2 pin 1 to GND.
+Add net Net-(D2-A).
+Connected D2 pin 2 to Net-(D2-A).
+Added D1 (footprint 'LED_THT:LED_D3.0mm').
+Added J1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical').
+Changed REF** reference designator to J1.
+Changed J1 value from PinHeader_1x03_P2.54mm_Vertical to Conn_01x03_Pin.
+Updated J1 symbol association from  to /73bb24e2-3a8d-49f6-829b-be103e5e9e6d.
+Updated J1 fields.
+Updated J1 sheetname to 'Root'.
+Updated J1 sheetfile to 'MECA-LEDs.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_1x??_*'.
+Connected J1 pin 2 to Net-(D2-A).
+Connected J1 pin 1 to Net-(D1-A).
+Connected J1 pin 3 to GND.
+
+
+Info: Total warnings: 0, errors: 0.
